@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{1B0A2A6D-D065-4DCE-9A83-FC31D112C46F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBLUtility", "SBLUtility\SBLUtility.csproj", "{8869DDC5-AFD8-451D-BF55-B3012B39FB1B}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://bhojarajsahu88.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Utility\\Utility.csproj
+		SccProjectName1 = Utility
+		SccLocalPath1 = Utility
+		SccProjectUniqueName2 = SBLUtility\\SBLUtility.csproj
+		SccProjectName2 = SBLUtility
+		SccLocalPath2 = SBLUtility
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B0A2A6D-D065-4DCE-9A83-FC31D112C46F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B0A2A6D-D065-4DCE-9A83-FC31D112C46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B0A2A6D-D065-4DCE-9A83-FC31D112C46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B0A2A6D-D065-4DCE-9A83-FC31D112C46F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8869DDC5-AFD8-451D-BF55-B3012B39FB1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8869DDC5-AFD8-451D-BF55-B3012B39FB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8869DDC5-AFD8-451D-BF55-B3012B39FB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8869DDC5-AFD8-451D-BF55-B3012B39FB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
